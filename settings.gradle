@@ -1,0 +1,4 @@
+rootProject.name = 'groovy-user-site'
+
+include 'generator','site'
+
